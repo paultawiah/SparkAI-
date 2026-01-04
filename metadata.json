@@ -1,0 +1,8 @@
+{
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "name": "SparkAI Dating",
+  "description": "Next-gen AI Matchmaking & E2EE Secured Dating Platform"
+}
